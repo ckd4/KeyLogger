@@ -1,0 +1,259 @@
+﻿  KeyLogger.cpp
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,539): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,539): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,544): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,544): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,549): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,549): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,554): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,554): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,559): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,559): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,564): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,564): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,569): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,569): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,574): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,574): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,579): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,579): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,584): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,584): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,589): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,589): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,594): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,594): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,599): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,599): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,604): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,604): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,609): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,609): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,614): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,614): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,619): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,619): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,624): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,624): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,629): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,629): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,634): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,634): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,639): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,639): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,644): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,644): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,649): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,649): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,654): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,654): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,659): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,659): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,664): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,664): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,669): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,669): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,674): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,674): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,679): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,679): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,684): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,684): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,689): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,689): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,694): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,694): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,699): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,699): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,704): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,704): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,709): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,709): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,714): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,714): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,719): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,719): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,724): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,724): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,729): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,729): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,734): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,734): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,739): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,739): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,744): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,744): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,749): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,749): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,754): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,754): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,759): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,759): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,764): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,764): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,769): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,769): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,774): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,774): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,779): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,779): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,784): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,784): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,789): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,789): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,794): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,794): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,799): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,799): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,804): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,804): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,809): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,809): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,814): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,814): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,819): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,819): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,824): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,824): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,829): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,829): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,834): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,834): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,839): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,839): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,844): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,844): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,849): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,849): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,854): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,854): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,859): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,859): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,864): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,864): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,869): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,869): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,874): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,874): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,879): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,879): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,884): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,884): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,889): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,889): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,894): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,894): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,899): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,899): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,904): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,904): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,909): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,909): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,914): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,914): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,919): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,919): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,924): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,924): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,929): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,929): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,934): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,934): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,939): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,939): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,944): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,944): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,949): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,949): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,954): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,954): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,959): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,959): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,964): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,964): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,969): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,969): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,974): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,974): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,979): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,979): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,984): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,984): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,989): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,989): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,994): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,994): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,999): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,999): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1004): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1004): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1009): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1009): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1014): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1014): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1019): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1019): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1024): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1024): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1029): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1029): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1034): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1034): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1039): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1039): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1044): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1044): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1049): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1049): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1054): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1054): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1059): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1059): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1064): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1064): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1069): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1069): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1074): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1074): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1079): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1079): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1084): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1084): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1089): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1089): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1094): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1094): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1099): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1099): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1104): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1104): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1109): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1109): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1114): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1114): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1119): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1119): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1124): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1124): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1129): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1129): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1134): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1134): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1139): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1139): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1144): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1144): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1149): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1149): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1154): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1154): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1159): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1159): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1164): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1164): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1169): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1169): warning C4309: инициализация: усечение константного значения
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1174): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+C:\Users\Ckd4\source\repos\KeyLogger\KeyLogger.h(4,1174): warning C4309: инициализация: усечение константного значения
+  LINK : не найден или не выполнена сборка C:\Users\Ckd4\source\repos\KeyLogger\x64\Debug\KeyLogger.exe при последней инкрементной компоновке; выполняется полная компоновка
+  KeyLogger.vcxproj -> C:\Users\Ckd4\source\repos\KeyLogger\x64\Debug\KeyLogger.exe
